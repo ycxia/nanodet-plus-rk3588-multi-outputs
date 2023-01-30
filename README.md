@@ -59,9 +59,10 @@ For nanodet-EfficientNet-Lite2_512, the head is nanodet. you should change nanod
 After changing,  your converted .pt model has multi outputs.
 
 nanodet-EfficientNet-Lite2_512 has three outputs, each output dims is (1,124,64,64), (1,124,32,32), (1,124,16,16). 
-the input dims is(1,3,512,512),
+the input dims is(1,3,512,512).
 
 Usage: 
+
        ./build-linux_RK3588.sh
 
-       ./install/rknn_nanodet_demo_Linux/rknn_nanodet_demo nanodet-EfficientNet-Lite2_512_notrs.rknn ../rknn_nanodet_demo/model/bus.jpg
+       ./install/rknn_nanodet_demo_Linux/rknn_nanodet_demo nanodet-EfficientNet-Lite2_512_notrs.rknn bus.jpg
