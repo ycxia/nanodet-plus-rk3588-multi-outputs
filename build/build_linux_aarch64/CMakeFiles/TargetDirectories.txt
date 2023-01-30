@@ -1,0 +1,7 @@
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/build/build_linux_aarch64/CMakeFiles/install/strip.dir
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/build/build_linux_aarch64/CMakeFiles/install.dir
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/build/build_linux_aarch64/CMakeFiles/list_install_components.dir
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/build/build_linux_aarch64/CMakeFiles/rebuild_cache.dir
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/build/build_linux_aarch64/CMakeFiles/edit_cache.dir
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/build/build_linux_aarch64/CMakeFiles/install/local.dir
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/build/build_linux_aarch64/CMakeFiles/rknn_nanodet_demo.dir

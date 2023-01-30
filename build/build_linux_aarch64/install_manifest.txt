@@ -1,0 +1,4 @@
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/install/rknn_nanodet_demo_Linux/./rknn_nanodet_demo
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/install/rknn_nanodet_demo_Linux/lib/librknnrt.so
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/install/rknn_nanodet_demo_Linux/lib/librga.so
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/install/rknn_nanodet_demo_Linux/.//model/coco_80_labels_list.txt

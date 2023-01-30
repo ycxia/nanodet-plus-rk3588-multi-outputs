@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../../runtime/RK3588/Linux/librknn_api/include/rknn_api.h
+stdint.h
+-
+
+../../include/postprocess.h
+stdint.h
+-
+vector
+-
+rknn_api.h
+-
+
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/src/postprocess.cc
+postprocess.h
+/opt/rknpu1.4-master/examples/rknn_nanodet_3O_demo/src/postprocess.h
+math.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/time.h
+-
+rknn_api.h
+-
+set
+-
+vector
+-
+math.h
+-
+
